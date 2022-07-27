@@ -1,6 +1,6 @@
 install emacs:
 ~~~
-cd /usr/bin; sudo wget https://github.com/Lumetas/emacs.conf/releases/download/release/emacs.appimage ; sudo chmod +x /usr/bin/emacs
+cd /usr/bin; sudo wget https://github.com/Lumetas/emacs.conf/releases/download/release/emacs.appimage ; sudo mv emacs.appimage emacs ; sudo chmod +x /usr/bin/emacs
 ~~~
 install conf:
 ~~~
