@@ -80,3 +80,16 @@
 
 (require 'linum-relative)
 (linum-relative-on)
+
+(global-set-key (kbd "C-f") 'isearch-forward)
+(global-unset-key (kbd "C-s"))
+
+(global-set-key (kbd "<C-escape>") 'shell)
+
+(require 'php-mode)
+
+
+(custom-set-variables
+ '(initial-scratch-message ""))
+(custom-set-faces
+ )
