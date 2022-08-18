@@ -56,6 +56,7 @@
 (global-set-key (kbd "M-д") 'forward-char)
 
 (global-set-key (kbd "M-w") 'save-buffer)
+(global-set-key (kbd "M-ц") 'save-buffer)
 (global-set-key (kbd "C-k") 'kill-current-buffer)
 
 (global-set-key (kbd "M-u") 'undo)
