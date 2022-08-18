@@ -117,7 +117,7 @@ This won't take effect if you choose `display-line-numbers-mode' backend."
   :group 'linum-relative)
 
 ;; NOTE: can't work on `display-line-numbers-mode'
-(defcustom linum-relative-format "%3s"
+(defcustom linum-relative-format "|%3s "
   "Format for each line. Good for adding spaces/paddings like so: \" %3s \"
 
 This won't take effect if you choose `display-line-numbers-mode' backend."
