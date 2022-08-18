@@ -93,3 +93,5 @@
  '(initial-scratch-message ""))
 (custom-set-faces
  )
+(setq-default tab-width          4)	
+(define-key global-map (kbd "TAB") (kbd "C-u 4 SPC"))
