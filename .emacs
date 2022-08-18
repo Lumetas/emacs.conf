@@ -16,7 +16,7 @@
 
 ;; http://code.google.com/p/dea/source/browse/trunk/my-lisps/linum%2B.el
 (require 'linum+)
-(setq linum-format "%d ")
+;(setq linum-format "%d   ")
 (global-linum-mode 1)
 
 
@@ -59,14 +59,18 @@
 (global-set-key (kbd "C-k") 'kill-current-buffer)
 
 (global-set-key (kbd "M-u") 'undo)
+(global-set-key (kbd "M-г") 'undo)
 (global-unset-key (kbd "C-x u"))
 
 (global-set-key (kbd "C-M-h") 'move-beginning-of-line)
 (global-set-key (kbd "C-M-l") 'move-end-of-line)
 
 (global-set-key (kbd "M-y") 'kill-ring-save)
+(global-set-key (kbd "M-н") 'kill-ring-save)
 (global-set-key (kbd "M-d") 'kill-region)
+(global-set-key (kbd "M-в") 'kill-region)
 (global-set-key (kbd "M-p") 'yank)
+(global-set-key (kbd "M-з") 'yank)
 (put 'downcase-region 'disabled nil)
 
 
@@ -80,14 +84,15 @@
 
 (require 'linum-relative)
 (linum-relative-on)
-
+(global-set-key (kbd "C-к") 'isearch-backward)
 (global-set-key (kbd "C-f") 'isearch-forward)
+(global-set-key (kbd "C-а") 'isearch-forward)
 (global-unset-key (kbd "C-s"))
 
 (global-set-key (kbd "<C-escape>") 'shell)
 
 (require 'php-mode)
-
+;;(add-to-list 'load-path (expand-file-name "~/.emacs.d/lisp/php"))
 
 (custom-set-variables
  '(initial-scratch-message ""))
@@ -95,3 +100,4 @@
  )
 (setq-default tab-width          4)	
 (define-key global-map (kbd "TAB") (kbd "C-u 4 SPC"))
+(define-key global-map (kbd "<f5>") 'revert-buffer)
