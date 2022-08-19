@@ -1,3 +1,4 @@
+;v-10
 (setq show-paren-style 'expression)
 (show-paren-mode 2)
 
@@ -102,3 +103,5 @@
 (setq-default tab-width          4)	
 (define-key global-map (kbd "TAB") (kbd "C-u 4 SPC"))
 (define-key global-map (kbd "<f5>") 'revert-buffer)
+(setq scroll-step            1
+      scroll-conservatively  10000)
