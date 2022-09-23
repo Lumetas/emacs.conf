@@ -1,4 +1,3 @@
-;v-10
 (setq show-paren-style 'expression)
 (show-paren-mode 2)
 
@@ -104,4 +103,32 @@
 (define-key global-map (kbd "TAB") (kbd "C-u 4 SPC"))
 (define-key global-map (kbd "<f5>") 'revert-buffer)
 (setq scroll-step            1
-      scroll-conservatively  10000)
+      scroll-conservatively  1)
+
+; Браузер
+(setq
+ browse-url-browser-function 'eww-browse-url ; Use eww as the default browser
+ shr-use-fonts  nil                          ; No special fonts
+ shr-use-colors nil                          ; No colours
+ shr-indentation 2                           ; Left-side margin
+ shr-width 70                                ; Fold text to 70 columns
+ eww-search-prefix "https://www.google.com/search?q=")    ; Use another engine for searching
+
+
+
+(add-hook 'eww-mode-hook
+		  (lambda ()
+			(local-set-key (kbd "<f5>") 'eww-reload)
+			(local-set-key (kbd "<M-left>") 'eww-back-url)
+			(local-set-key (kbd "<M-right>") 'eww-forward-url)
+			(local-set-key (kbd "C-h") 'eww-list-histories)
+			(local-set-key (kbd "C-d") 'eww-add-bookmark)
+			(local-set-key (kbd "C-o") 'eww-list-bookmarks)
+            (linum-relative-toggle)
+			))
+
+; Пример функции открывающей определённую станицу
+;(defun ew-open-google ()
+;  (interactive)
+;(eww "google.com")
+;)
