@@ -316,7 +316,7 @@ In that case set to `NIL'."
     ;;
     ;; Changing the default to mark-defun provides behavior that users
     ;; are more likely to expect.
-    (define-key map (kbd "C-M-h") 'mark-defun)
+    (define-key map (kbd "C-M-h") 'move-beginning-of-line)
 
     ;; Many packages based on cc-mode provide the 'C-c C-w' binding
     ;; to toggle Subword Mode.  See the page

@@ -111,7 +111,7 @@ This won't take effect if you choose `display-line-numbers-mode' backend."
 ;; NOTE: can't work on `display-line-numbers-mode'
 (defcustom linum-relative-plusp-offset 0
   "Offset to use for positive relative line numbers.
-
+ 
 This won't take effect if you choose `display-line-numbers-mode' backend."
   :type 'integer
   :group 'linum-relative)
