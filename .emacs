@@ -50,28 +50,28 @@
 
 (global-set-key (kbd "M-l") 'forward-char)
 
-(global-set-key (kbd "M-СЂ") 'backward-char)
-(global-set-key (kbd "M-Рѕ") 'next-line)
-(global-set-key (kbd "M-Р»") 'previous-line)
-(global-set-key (kbd "M-Рґ") 'forward-char)
+(global-set-key (kbd "M-р") 'backward-char)
+(global-set-key (kbd "M-о") 'next-line)
+(global-set-key (kbd "M-л") 'previous-line)
+(global-set-key (kbd "M-д") 'forward-char)
 
 (global-set-key (kbd "M-w") 'save-buffer)
-(global-set-key (kbd "M-С†") 'save-buffer)
+(global-set-key (kbd "M-ц") 'save-buffer)
 (global-set-key (kbd "C-k") 'kill-current-buffer)
 
 (global-set-key (kbd "M-u") 'undo)
-(global-set-key (kbd "M-Рі") 'undo)
+(global-set-key (kbd "M-г") 'undo)
 (global-unset-key (kbd "C-x u"))
 
 (global-set-key (kbd "C-M-h") 'move-beginning-of-line)
 (global-set-key (kbd "C-M-l") 'move-end-of-line)
 
 (global-set-key (kbd "M-y") 'kill-ring-save)
-(global-set-key (kbd "M-РЅ") 'kill-ring-save)
+(global-set-key (kbd "M-н") 'kill-ring-save)
 (global-set-key (kbd "M-d") 'kill-region)
-(global-set-key (kbd "M-РІ") 'kill-region)
+(global-set-key (kbd "M-в") 'kill-region)
 (global-set-key (kbd "M-p") 'yank)
-(global-set-key (kbd "M-Р·") 'yank)
+(global-set-key (kbd "M-з") 'yank)
 (put 'downcase-region 'disabled nil)
 
 
@@ -87,7 +87,7 @@
 
 (require 'linum-relative)
 (linum-relative-on)
-(global-set-key (kbd "C-Рє") 'isearch-backward)
+(global-set-key (kbd "C-к") 'isearch-backward)
 
 (global-set-key (kbd "<C-escape>") 'shell)
 
@@ -127,7 +127,6 @@
             (linum-relative-toggle)
 			))
 
-; РџСЂРёРјРµСЂ С„СѓРЅРєС†РёРё РѕС‚РєСЂС‹РІР°СЋС‰РµР№ РѕРїСЂРµРґРµР»С‘РЅРЅСѓСЋ СЃС‚Р°РЅРёС†Сѓ
 ;(defun ew-open-google ()
 ;  (interactive)
 ;(eww "google.com")
