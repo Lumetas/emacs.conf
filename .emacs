@@ -127,10 +127,14 @@
             (linum-relative-toggle)
 			))
 
-;(defun ew-open-google ()
-;  (interactive)
-;(eww "google.com")
-;)
+
+										;(shell-command "cd ~/emacs.d/php/project && php -S localhost:8080 &")
+										;(delete-window)
+
+										;(defun ew-open-google ()
+										;  (interactive)
+										;(eww "localhost:8080")
+										;)
 
 
 (autoload 'rust-mode "rust-mode" nil t)
