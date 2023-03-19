@@ -1,0 +1,133 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/lum/work/gender/" . "reg/")
+ ("/home/lum/work/cr/ti-dh-php/" . "example/")
+ ("/home/lum/work/cr/" . "dif/")
+ ("/home/lum/work/rust/hello/" . "src/")
+ ("/home/lum/work/rust/" . "hello/")
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/" . "playersmanagement/")
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/" . "donationexecutor/")
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/" . "igorlink/")
+ ("/home/lum/Downloads/DonationExecutor/src/main/" . "java/")
+ ("/home/lum/Downloads/DonationExecutor/src/" . "main/")
+ ("/home/lum/Downloads/DonationExecutor/" . "src/")
+ ("/home/lum/Downloads/" . "DonationExecutor/")
+ ("/home/lum/work/transport/client/" . "css/")
+ ("/home/lum/work/transport/" . "client/")
+ ("/home/lum/work/" . "gender/")
+ ("/home/lum/.config/" . "sxhkd/")
+ ("/home/lum/" . "work/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/lum/"
+ "/home/lum/work/gender/reg/"
+ "/home/lum/work/gender/"
+ "/home/lum/work/CTM/"
+ "/home/lum/work/cr/"
+ "/home/lum/work/cr/dif/"
+ "/home/lum/work/cr/ti-dh-php/example/"
+ "/home/lum/.config/sxhkd/"
+ "/home/lum/.config/bspwm/"
+ "/home/lum/work/rust/hello/src/"
+ "/home/lum/work/rust/hello/"
+ "/home/lum/work/rust/"
+ "/home/lum/Downloads/"
+ "/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/playersmanagement/"
+ "/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/"
+ "/home/lum/Downloads/lumcrypt/"
+ "/home/lum/work/transport/client/css/"
+ "/home/lum/work/transport/client/js/"
+ "/home/lum/work/transport/server/"
+ "/home/lum/work/transport/client/"
+ "/home/lum/work/1/"
+ "/home/lum/work/"
+ "/home/lum/.config/openbox/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "worldbox"
+ "ajaxCheckUserName.php"
+ "regAccept.php"
+ "reg.php"
+ "script.js"
+ "index.php"
+ "config.php"
+ "masterKey.php"
+ "todd_allow.php"
+ "todd.php"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/lum/" (25614 29326 474897 836000) ".lesshst" ".zsh_history" ".android/" ".zcompdump-archlinux-5.9" ".bash_history" ".tlauncher/" ".rustup/" "cloud/" "Discord/" ".discord-rpc/" "rofi/" "pinger" "Downloads/" ".vscode-oss/" ".bashrc" "Desktop/" ".steampath" ".steam/" ".Xauthority" ".gtkrc-2.0" "./" ".xinitrc" "wallpaper/" ".wget-hsts" "rust-mode/" ".zshrc" ".gnupg/" ".mozilla/" "serverstatus/" ".bash_profile" "balenaEtcher-1.14.3-x64.AppImage" ".emacs" ".pulse-cookie" "Escritorio/" "Грокаем алгоритмы" ".java/" "Minecraft/" "note" ".steampid" ".gnome/" ".pki/" ".wine/" ".icons/" ".shell.pre-oh-my-zsh" ".local/" "Бхаргава - Грокаем алгоритмы.pdf" "record.html" "work/" "note.html" "obs/" "linuxmint-21.1-cinnamon-64bit.iso" "usb/" ".cargo/" "albiononline/" ".profile" ".#note.html" "worldbox" "hui" ".config/" ".fehbg" ".bash_logout" ".cache/" ".zshenv" ".emacs.d/" "../" ".gitconfig" ".python_history" ".viminfo" ".oh-my-zsh/" ".Wurst encryption/" "index.php" "test.py" ".zcompdump-archlinux-5.9.zwc" "lumpass/" "1" ".tmux.conf" "main.php" ".themes/" ".minecraft/" ".ICEauthority")
+
+ ("/home/lum/work/gender/reg/" (25614 22220 314867 94000) "./" "regAccept.php" ".#regAccept.php" "ajaxCheckUserName.php" "../" "script.js")
+
+ ("/home/lum/work/gender/" (25614 22189 44868 606000) "config.php" "reg/" "./" "auth.php" "reg.php" "functions.class.php" "users/" "../" "index.php" "main.php")
+
+ ("/home/lum/work/" (25611 57781 554834 839000) "gender/" "CTM/" "rust/" "./" "lupatik/" "../")
+
+ ("/home/lum/work/CTM/" (25605 19318 823533 729000) "createfolder.php" "editor.php" "images/" "config.php" "jquery.js" "fonts/" "style.css" "downloadfile.php" "files/" "favicon.ico" "cookie.js" "./" "deletefile.php" "createfile.php" "todd.php" "showtable.php" "renamefile.php" "uploadfile.php" "language/" "deletefolder.php" "codemirror/" "todd/" "glBack.jpg" "font-awesome.min.css" "panel.css" "../" "savefile.php" "todd_allow.php" "masterKey.php" "downloadfolder.php" "index.php" "script.js" ".git/")
+
+ ("/home/lum/work/cr/" (25585 36109 672084 354000) "test.php" "./" "ips/" "../" "dif/" "index.php")
+
+ ("/home/lum/work/cr/dif/" (25585 35644 728773 478000) "./" "createKey.php" "../")
+
+ ("/home/lum/work/cr/ti-dh-php/example/" (25585 35000 842137 966000) "vendor/" "./" "../" "server.php" "client.php" "composer.json")
+
+ ("/home/lum/work/cr/ti-dh-php/" (25585 35000 842137 966000) "LICENSE" "Dh.php" "./" "README.md" "../" ".git/" "example/")
+
+ ("/home/lum/.config/sxhkd/" (25581 33576 977593 109000) "sxhkdrc" "./" "../")
+
+ ("/home/lum/.config/" (25581 35103 490852 786000) "legendary/" "rofi/" "cef_user_data/" "neofetch/" "nemo/" "./" "kitty/" "pcmanfm/" "openbox/" "sxhkd/" "mimeapps.list" "obs-studio/" "rofi.lum/" "micro/" "heroic/" "nitrogen/" "kdenlive-appimagerc" "tint2/" "audacity/" "xfce4/" "polybar/" "gtk-3.0/" "menus/" "ranger/" "bspwm/" "unity3d/" "../" "kdenlive-layoutsrc" "dconf/" "pulse/" "gtk-2.0/" "discord/" "GIMP/" "libfm/" "google-chrome/" "Sandbox Interactive GmbH/" "flameshot/" "htop/" "Thunar/")
+
+ ("/home/lum/.Wurst encryption/" (25526 56343 347514 311000) "wurst_rsa_private.txt" "./" "READ ME I AM VERY IMPORTANT.txt" "../" "wurst_aes.txt" "wurst_rsa_public.txt")
+
+ ("/home/lum/.config/bspwm/" (25581 34286 150892 251000) "bspwmrc" "./" "../")
+
+ ("/home/lum/work/rust/hello/src/" (25569 43861 980634 505000) "./" "main.rs" "../")
+
+ ("/home/lum/work/rust/hello/" (25569 43861 980634 505000) "src/" "./" ".gitignore" "../" "Cargo.toml" ".git/")
+
+ ("/home/lum/work/rust/" (25569 43861 970634 506000) "./" "../" "hello/")
+
+ ("/home/lum/Downloads/" (25526 64982 982447 214000) "Спокойной ночи, Малыши/" "./" "video.webm" "Komandy.txt" "../" "465863.jpg")
+
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/playersmanagement/" (25517 3270 69871 205000) "StreamerPlayersManager.java" "./" "donationalerts/" "StreamerPlayer.java" "../" "Donation.java")
+
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/" (25517 3270 69871 205000) "executionsstaff/" "./" "DonationExecutor.java" "../" "GeneralEventListener.java" "Executor.java" "playersmanagement/")
+
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/" (25517 3270 69871 205000) "command/" "./" "service/" "../" "donationexecutor/")
+
+ ("/home/lum/Downloads/DonationExecutor/src/main/java/" (25517 3270 66537 817000) "./" "igorlink/" "../")
+
+ ("/home/lum/Downloads/DonationExecutor/src/main/" (25517 3270 69871 205000) "./" "java/" "../" "resources/")
+
+ ("/home/lum/Downloads/DonationExecutor/src/" (25517 3270 66537 817000) "./" "main/" "../")
+
+ ("/home/lum/Downloads/DonationExecutor/" (25517 3270 66537 817000) "src/" "./" "LICENSE.md" ".gitignore" "README.md" "../" ".git/" "pom.xml")
+
+ ("/home/lum/Downloads/lumcrypt/" (25506 57851 94804 389000) "lumcrypt.php" "./" "../" "lumcrypt.js" "index.php" ".git/")
+
+ ("/home/lum/work/transport/client/" (25494 57485 827317 716000) "css/" "main.html" "./" "../" "js/")
+
+ ("/home/lum/work/transport/client/js/" (25494 57321 388828 345000) "./" "bd.js" "../" "script.js")
+
+ ("/home/lum/work/transport/client/css/" (25493 59201 536257 756000) "style.css" "./" "../")
+
+ ("/home/lum/work/transport/server/" (25493 58517 926925 960000) "stations/" "crate.html" "./" "../" "index.php")
+
+ ("/home/lum/work/transport/" (25492 14207 350708 551000) "client/" "./" "server/" "../")
+
+ ("/home/lum/.config/openbox/" (25467 33271 62918 995000) "./" "../" "menu.xml" "autostart" "rc.xml")
+
+ ("/home/lum/lumpass/" (25428 12177 208875 67000) "./" "../" "1")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
