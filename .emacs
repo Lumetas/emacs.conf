@@ -13,6 +13,17 @@
 (defalias 'yes-or-no-p 'y-or-n-p)
 
 
+
+(defun ido-my-keys ()
+  (define-key ido-completion-map (kbd "M-h")   'ido-prev-match)
+  (define-key ido-completion-map (kbd "M-l") 'ido-next-match))
+
+(add-hook 'ido-setup-hook 'ido-my-keys)
+
+
+
+
+
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 ;; http://code.google.com/p/dea/source/browse/trunk/my-lisps/linum%2B.el
