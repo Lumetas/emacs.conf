@@ -24,6 +24,19 @@
 
 
 
+							   
+(defun c-my-keys ()
+  (interactive)
+(local-set-key (kbd "C-M-h") 'move-beginning-of-line))
+
+(add-hook 'c-mode-hook 'c-my-keys)
+
+
+
+
+
+
+
 (add-to-list 'load-path "~/.emacs.d/lisp")
 
 ;; http://code.google.com/p/dea/source/browse/trunk/my-lisps/linum%2B.el
