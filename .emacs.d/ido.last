@@ -2,6 +2,31 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/lum/work/lum/" . "mymodule/")
+ ("/home/lum/AndroidStudioProjects/2/app/src/main/assets/" . "www/")
+ ("/home/lum/AndroidStudioProjects/2/app/src/main/" . "assets/")
+ ("/home/lum/AndroidStudioProjects/2/app/src/" . "main/")
+ ("/home/lum/AndroidStudioProjects/2/app/" . "src/")
+ ("/home/lum/AndroidStudioProjects/2/" . "app/")
+ ("/home/lum/AndroidStudioProjects/" . "2/")
+ ("/home/lum/Android/" . "Sdk/")
+ ("/home/lum/work/marker/" . "css/")
+ ("/home/lum/work/guitar/" . "accords/")
+ ("/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/data/" . "example_gui/")
+ ("/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/" . "files/")
+ ("/home/lum/Desktop/Noita/mods/" . "Cheat Menu by Everfades/")
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/data/ragdolls/" . "player/")
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/data/" . "entities/")
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/" . "data/")
+ ("/home/lum/work/messenger/htdocs/" . "style.php/")
+ ("/home/" . "lum/")
+ ("/home/lum/work/messenger/" . "htdocs/")
+ ("/home/lum/work/lum-messenger/htdocs/" . "js/")
+ ("/home/lum/work/lum-messenger/" . "htdocs/")
+ ("/home/lum/Downloads/GLum/GLum-folder/" . "www/")
+ ("/home/lum/Downloads/GLum/" . "GLum-folder/")
+ ("/home/lum/.emacs.d/php/" . "hello/")
+ ("/home/lum/.emacs.d/" . "php/")
  ("/home/lum/work/gender/" . "reg/")
  ("/home/lum/work/cr/ti-dh-php/" . "example/")
  ("/home/lum/work/cr/" . "dif/")
@@ -13,64 +38,231 @@
  ("/home/lum/Downloads/DonationExecutor/src/main/" . "java/")
  ("/home/lum/Downloads/DonationExecutor/src/" . "main/")
  ("/home/lum/Downloads/DonationExecutor/" . "src/")
- ("/home/lum/Downloads/" . "DonationExecutor/")
+ ("/home/lum/Downloads/" . "GLum/")
  ("/home/lum/work/transport/client/" . "css/")
  ("/home/lum/work/transport/" . "client/")
- ("/home/lum/work/" . "gender/")
+ ("/home/lum/work/" . "testBack/")
  ("/home/lum/.config/" . "sxhkd/")
- ("/home/lum/" . "work/")
+ ("/home/lum/" . "AndroidStudioProjects/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/lum/AndroidStudioProjects/2/app/src/main/assets/www/"
+ "/home/lum/work/testBack/"
+ "/home/lum/work/lum/"
+ "/home/lum/work/lum/mymodule/"
+ "/home/lum/work/lum/shell/"
  "/home/lum/"
+ "/home/lum/work/assistant/"
+ "/home/lum/dwm/"
+ "/home/lum/work/Цитатник_files/"
+ "/home/lum/work/"
+ "/home/lum/work/note/"
+ "/home/lum/work/game/"
+ "/home/lum/work/longpollaux/"
+ "/home/lum/work/editor/"
+ "/home/lum/work/messenger/htdocs/style.php/"
+ "/home/lum/work/messenger/htdocs/"
+ "/home/lum/work/messenger/htdocs/js/"
+ "/home/lum/work/mesClient/"
+ "/home/lum/work/android/"
+ "/home/lum/work/marker/"
+ "/home/lum/work/marker/css/"
+ "/home/lum/work/marker/ssp/"
+ "/home/lum/eduProgram/"
+ "/home/lum/work/guitar/"
+ "/home/lum/work/guitar/accords/"
+ "/home/lum/work/vkcli/"
+ "/home/lum/work/bot/"
+ "/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/files/"
+ "/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/"
+ "/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/data/example_gui/"
+ "/home/lum/Desktop/Noita/mods/sheep_mod/data/entities/"
+ "/home/lum/Desktop/Noita/mods/sheep_mod/"
+ "/home/lum/work/Hide-Address-Bar/"
+ "/home/lum/work/messenger/htdocs/php/"
+ "/home/lum/work/lum-messenger/htdocs/"
+ "/home/lum/work/lum-messenger/htdocs/js/"
+ "/home/lum/work/lum-messenger/htdocs/style.php/"
+ "/home/lum/work/lum-messenger/htdocs/php/"
+ "/home/lum/work/crypter-JS-PHP/"
+ "/home/lum/work/aes/"
+ "/home/lum/work/RSA_JS_PHP/"
+ "/home/lum/work/rsa/"
+ "/home/lum/work/ajax/"
+ "/home/lum/work/lumpass/"
+ "/home/lum/Downloads/GLum/GLum-folder/www/"
+ "/home/lum/work/fingerprint/"
+ "/home/lum/.emacs.d/php/hello/"
  "/home/lum/work/gender/reg/"
  "/home/lum/work/gender/"
  "/home/lum/work/CTM/"
- "/home/lum/work/cr/"
- "/home/lum/work/cr/dif/"
- "/home/lum/work/cr/ti-dh-php/example/"
- "/home/lum/.config/sxhkd/"
- "/home/lum/.config/bspwm/"
- "/home/lum/work/rust/hello/src/"
- "/home/lum/work/rust/hello/"
- "/home/lum/work/rust/"
- "/home/lum/Downloads/"
- "/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/playersmanagement/"
- "/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/"
- "/home/lum/Downloads/lumcrypt/"
- "/home/lum/work/transport/client/css/"
- "/home/lum/work/transport/client/js/"
- "/home/lum/work/transport/server/"
- "/home/lum/work/transport/client/"
- "/home/lum/work/1/"
- "/home/lum/work/"
- "/home/lum/.config/openbox/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "worldbox"
- "ajaxCheckUserName.php"
- "regAccept.php"
- "reg.php"
- "script.js"
- "index.php"
- "config.php"
- "masterKey.php"
- "todd_allow.php"
- "todd.php"
+ "test.html"
+ "file.js"
+ "index.html"
+ "const.go"
+ "main.go"
+ "go.mod"
+ "some_file.go"
+ "print.go"
+ "shell"
+ ".emacs"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/lum/" (25614 29326 474897 836000) ".lesshst" ".zsh_history" ".android/" ".zcompdump-archlinux-5.9" ".bash_history" ".tlauncher/" ".rustup/" "cloud/" "Discord/" ".discord-rpc/" "rofi/" "pinger" "Downloads/" ".vscode-oss/" ".bashrc" "Desktop/" ".steampath" ".steam/" ".Xauthority" ".gtkrc-2.0" "./" ".xinitrc" "wallpaper/" ".wget-hsts" "rust-mode/" ".zshrc" ".gnupg/" ".mozilla/" "serverstatus/" ".bash_profile" "balenaEtcher-1.14.3-x64.AppImage" ".emacs" ".pulse-cookie" "Escritorio/" "Грокаем алгоритмы" ".java/" "Minecraft/" "note" ".steampid" ".gnome/" ".pki/" ".wine/" ".icons/" ".shell.pre-oh-my-zsh" ".local/" "Бхаргава - Грокаем алгоритмы.pdf" "record.html" "work/" "note.html" "obs/" "linuxmint-21.1-cinnamon-64bit.iso" "usb/" ".cargo/" "albiononline/" ".profile" ".#note.html" "worldbox" "hui" ".config/" ".fehbg" ".bash_logout" ".cache/" ".zshenv" ".emacs.d/" "../" ".gitconfig" ".python_history" ".viminfo" ".oh-my-zsh/" ".Wurst encryption/" "index.php" "test.py" ".zcompdump-archlinux-5.9.zwc" "lumpass/" "1" ".tmux.conf" "main.php" ".themes/" ".minecraft/" ".ICEauthority")
+ ("/home/lum/AndroidStudioProjects/2/app/src/main/assets/www/" (25743 56908 247316 113000) "css/" "index.html" "./" "img/" "file.js" "marker.zip" "parser.html" "test.html" "parser.js" "../" "script.js" "menu.js")
+
+ ("/home/lum/AndroidStudioProjects/2/app/" (25726 56390 799412 603000) "build/" "proguard-rules.pro" "libs/" "src/" "./" ".gitignore" "build.gradle" "../")
+
+ ("/home/lum/" (25742 55366 560648 505000) ".lesshst" ".zsh_history" ".android/" ".gradle/" ".zcompdump-archlinux-5.9" ".bash_history" ".tlauncher/" "AndroidStudioProjects/" ".rustup/" ".fonts/" "cloud/" "Discord/" ".discord-rpc/" "rofi/" ".nv/" "pinger" "Downloads/" ".vscode-oss/" ".bashrc" "Desktop/" "Android/" "dwm/" ".steampath" ".steam/" ".Xauthority" ".gtkrc-2.0" "./" ".xinitrc" "list" "wallpaper/" "text.html" ".m2/" ".wget-hsts" "tlauncher/" "rust-mode/" ".zshrc" ".gnupg/" ".mozilla/" "suicide" ".ssh/" "serverstatus/" "dwm-git/" "eduProgram/" ".bash_profile" "balenaEtcher-1.14.3-x64.AppImage" ".emacs" ".pulse-cookie" "Escritorio/" "Грокаем алгоритмы" ".vnc/" ".java/" "Minecraft/" "note" ".steampid" ".gnome/" ".pki/" ".wine/" ".icons/" ".shell.pre-oh-my-zsh" ".local/" "Бхаргава - Грокаем алгоритмы.pdf" "record.html" "fingerprint.php" "work/" "pikaur/" "note.html" "obs/" ".cpan/" "linuxmint-21.1-cinnamon-64bit.iso" "Загрузки/" ".Genymobile/" "usb/" ".cargo/" "albiononline/" ".profile" "hui" "screen" ".config/" ".emacs~" ".fehbg" "go/" "genymotion-3.3.3-linux_x64.bin" ".bash_logout" ".cache/" ".zshenv" "java_error_in_studio_.hprof" ".emacs.d/" "gconf/" "factorial" "../" ".gitconfig" ".python_history" "pass.txt" ".viminfo" ".oh-my-zsh/" ".Wurst encryption/" "index.php" "test.py" ".zcompdump-archlinux-5.9.zwc" "lumpass/" "genymotion/" "1" ".tmux.conf" "logger.txt" "main.php" ".themes/" ".minecraft/" ".ICEauthority")
+
+ ("/home/lum/work/testBack/" (25741 23603 627383 859000) "index.html" "./" "../")
+
+ ("/home/lum/work/" (25741 23592 393954 89000) "testBack/" "lum/" "bot/" "assistant/" "Цитатник.html" "editor/" "./" "longpollaux/" "note/" "game/" "vkcli/" "../" "Цитатник_files/" "guitar/")
+
+ ("/home/lum/work/lum/" (25741 14206 978902 189000) "lum" "./" "main.go" "go.mod" "../" "const.go")
+
+ ("/home/lum/work/lum/mymodule/" (25741 13835 22407 531000) "./" "some_file.go" "../")
+
+ ("/home/lum/work/lum/shell/" (25741 13551 948567 162000) "./" "print.go" "../")
+
+ ("/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/data/example_gui/" (25668 14142 13446 395000) "./" "gui.lua" "guicontainer.xml" "cheat_mod.lua" "../")
+
+ ("/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/files/" (25668 14138 253446 309000) "draw_1.png" "draw_3.png" "utils.lua" "keyboard.lua" "./" "wand_empty.xml" "draw_mats.lua" "draw_2.png" "mobs.lua" "material.lua" "wand.lua" "particles.lua" "flask_empty.xml" "props.lua" "spells.lua" "pickup.lua" "../" "locations.lua")
+
+ ("/home/lum/work/editor/" (25724 41094 4092 422000) "editor.php" "./" "saveFile.php" "../" "highlight/")
+
+ ("/home/lum/work/longpollaux/" (25725 41211 408633 790000) "listener.php" "info.php" "./" "longpoll.php" "ajax.js" "users/" "../" "getText.php" "index.php")
+
+ ("/home/lum/work/game/" (25725 48928 755948 134000) "./" "../" "index.php" "script.js")
+
+ ("/home/lum/work/Цитатник_files/" (25726 9798 713165 483000) "./" "styles.css" "base64.js" "parser.js" "../")
+
+ ("/home/lum/dwm/" (25730 15551 119081 494000) "README" "drw.h" "LICENSE" "sound" "dwm" "Makefile" "dwm.o" "./" "status" "dwm.png" "drw.c" "dwm.c.rej" "util.h" "config.mk" "autostart.h" "dwm.1" "README.md" "util.c" "screen" "brightness" "patches/" "../" "dwm.c.orig" "util.o" ".git/" "config.h" "drw.o" "config.def.h" "dwm.c" "transient.c")
+
+ ("/home/lum/AndroidStudioProjects/2/app/src/main/assets/" (25720 51293 603290 319000) "./" "www/" "../")
+
+ ("/home/lum/AndroidStudioProjects/2/app/src/main/" (25720 57813 407086 545000) "AndroidManifest.xml" "./" "java/" "assets/" "res/" "../" "ic_launcher-playstore.png")
+
+ ("/home/lum/AndroidStudioProjects/2/app/src/" (25720 50359 228831 945000) "./" "test/" "main/" "androidTest/" "../")
+
+ ("/home/lum/AndroidStudioProjects/2/" (25720 50399 798369 413000) ".gradle/" "gradle/" "./" "app/" "gradlew" "settings.gradle" ".gitignore" "local.properties" "build.gradle" ".idea/" "../" "gradlew.bat" "gradle.properties")
+
+ ("/home/lum/AndroidStudioProjects/" (25724 10538 869704 825000) "2/" "./" "3/" "lummessenger/" "lummessenger2/" "../")
+
+ ("/home/lum/Android/Sdk/" (25726 2830 505050 332000) "tools/" "fonts/" "emulator/" "./" "icons/" "licenses/" ".downloadIntermediates/" ".knownPackages" "platforms/" "platform-tools/" "build-tools/" "../" "patcher/" ".temp/")
+
+ ("/home/lum/Android/" (25657 46349 254632 354000) "./" "Sdk/" "../")
+
+ ("/home/lum/work/note/" (25726 1214 339940 323000) "style.css" "index.html" "./" "../" "script.js")
+
+ ("/home/lum/work/messenger/htdocs/" (25724 20999 299597 664000) "./" "auth.php" "pc.php" "reg.php" "mobile.php" "php/" "../" "index.php" "style.php/" ".#mobile.php" "js/")
+
+ ("/home/lum/work/messenger/htdocs/js/" (25724 20513 639222 467000) "version.js" "./" "md5.js" "functions.js" "ende.js" "base64.js" "aes.js" "ajax.js" "../")
+
+ ("/home/lum/work/messenger/htdocs/style.php/" (25724 19014 950242 582000) "./" "all.php" "pc.php" "mobile.php" "../")
+
+ ("/home/lum/work/messenger/" (25724 18572 786 749000) "id/" "LICENSE" "./" "dialogs/" "htdocs/" "users/" "../" ".git/")
+
+ ("/home/lum/work/mesClient/" (25724 18307 70079 212000) "index.html" "./" "../")
+
+ ("/home/lum/work/android/" (25724 10494 951413 636000) ".#index.html" "index.html" "./" "mainactivity" "../" "activity_main")
+
+ ("/home/lum/work/marker/" (25720 23388 725632 135000) "css/" "index.html" "./" "img/" "marker.zip" "parser.html" "parser.js" "../" "script.js" "menu.js")
+
+ ("/home/lum/work/marker/css/" (25720 18865 851013 26000) "style.css" "./" "left-nav-style.css" "frames.css" "../")
+
+ ("/home/lum/work/bot/" (25686 52343 597184 641000) "bot.py" "./" "../")
+
+ ("/home/lum/work/vkcli/" (25686 53537 807126 817000) "./" "config.json" "get.py" "../")
+
+ ("/home/lum/work/guitar/accords/" (25706 9141 836296 206000) "printAccord.js" "./" "createAccord.js" "../" "accordsApi.php" "accords.php" "index.php" "createAccord.html")
+
+ ("/home/lum/work/guitar/" (25706 6768 166629 5000) "accords/" "./" "ajax.js" "../")
+
+ ("/home/lum/eduProgram/" (25708 55139 681591 873000) "mainHtml" "mainCss" "./" "../")
+
+ ("/home/lum/work/assistant/" (25712 47959 995449 892000) "files/" "./" "ajax.js" "../" "server.php" "index.php")
+
+ ("/home/lum/work/marker/ssp/" (25720 6861 956975 438000) "index.html" "./" "right-slide-panel.html" "../")
+
+ ("/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/data/" (24235 13647 0 0) "example_gui/" "./" "../")
+
+ ("/home/lum/Desktop/Noita/mods/Cheat Menu by Everfades/" (24497 27318 0 0) "files/" "./" "compatibility.xml" "init.lua" "mod.xml" "data/" "../")
+
+ ("/home/lum/Desktop/Noita/mods/" (25668 13511 60098 748000) "PLACE_MODS_HERE" "nightmare/" "start_perks/" "./" "daily_practice/" "Cheat Menu by Everfades/" "starting_loadouts/" "LocationTracker/" "../" "translation_fi/" "sheep_mod/" "HealthRegenPercent/" "example/")
+
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/data/entities/" (25668 13855 816773 237000) "./" "player_rng_items.xml" "player.xml" "../" "animals/")
+
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/data/ragdolls/player/" (24571 21922 0 0) "right_thigh.png" "./" "torso.png" "left_thigh.png" "left_arm.png" "head.png" "right_hand.png" "filenames.txt" "left_hand.png" "right_leg.png" "right_arm.png" "../" "left_leg.png")
+
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/data/ragdolls/" (24328 62926 0 0) "./" "player/" "../")
+
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/files/" (24571 24200 0 0) "wands/" "./" "../" "sprite/")
+
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/data/" (24571 24150 0 0) "./" "ragdolls/" "entities/" "../" "generated/")
+
+ ("/home/lum/Desktop/Noita/mods/sheep_mod/" (24580 37696 0 0) "files/" "./" "compatibility.xml" "init.lua" "mod.xml" "data/" "../")
+
+ ("/home/lum/Downloads/" (25662 62158 573230 177000) "Deskreen-2.0.4.AppImage" "./" "Noita_1.0..torrent" "Без имени.png" "Noita.Build.10746461.rar.torrent" "../")
+
+ ("/home/lum/Escritorio/" (25459 44920 826848 206000) "./" "../")
+
+ ("/home/lum/work/Hide-Address-Bar/" (25656 40286 953543 322000) "./" ".gitignore" "hide-address-bar.js" "README.md" "demo.html" "../" ".git/")
+
+ ("/home/lum/work/messenger/htdocs/php/" (25656 12413 341585 818000) "./" "changeId.php" "aes.php" "ende.php" "../" "sendMsg.php" "checkUser.php" "readDi.php")
+
+ ("/home/" (25427 50803 623607 243000) "lum/" "./" "lost+found/" "../")
+
+ ("/home/lum/work/lum-messenger/htdocs/" (25654 60615 874851 990000) "./" "auth.php" "pc.php" "reg.php" "mobile.php" "php/" "../" "index.php" "style.php/" "js/")
+
+ ("/home/lum/work/lum-messenger/htdocs/js/" (25654 60627 901518 404000) "version.js" "./" "md5.js" "functions.js" "ende.js" "base64.js" "aes.js" "ajax.js" "../")
+
+ ("/home/lum/work/lum-messenger/htdocs/style.php/" (25654 57603 338249 988000) "./" "all.php" "pc.php" "mobile.php" "../")
+
+ ("/home/lum/work/lum-messenger/htdocs/php/" (25654 54845 214976 223000) "./" "aes.php" "ende.php" "../" "sendMsg.php" "readDi.php")
+
+ ("/home/lum/work/lum-messenger/" (25653 49948 148344 585000) "./" "dialogs/" "htdocs/" "users/" "../")
+
+ ("/home/lum/work/rust/" (25590 53099 832131 54000) "src/" "./" "target/" "Cargo.lock" ".gitignore" "../" "Cargo.toml" ".git/")
+
+ ("/home/lum/.config/sxhkd/" (25592 11594 132015 697000) "sxhkdrc" "./" "../")
+
+ ("/home/lum/work/fingerprint/" (25642 8763 84129 140000) "./" "fingerprint" "../" "hello")
+
+ ("/home/lum/work/lumpass/" (25643 30208 367136 50000) "./" "main" "../" ".git/")
+
+ ("/home/lum/work/crypter-JS-PHP/" (25653 39702 91661 903000) "./" "md5.js" "aes.php" "ende.php" "ende.js" "base64.js" "aes.js" "ajax.js" "../" "server.php" "index.php" ".git/")
+
+ ("/home/lum/work/aes/" (25653 38098 215029 994000) ".#decrypt.php" "./" "md5.js" "aes.php" "ende.php" "ende.js" "base64.js" "aes.js" ".#ende.php" "encrypt.php" "ajax.js" "../" "index.php" ".#server.php" "decrypt.php")
+
+ ("/home/lum/work/RSA_JS_PHP/" (25653 33323 861665 424000) "login.php" "./" "login.html" "README.md" "openssl/" "../" ".git/" "js/")
+
+ ("/home/lum/work/rsa/" (25653 33206 215001 304000) "hash.js" "./" "jsbn.js" "api.js" "public" "private" "ende.js" "base64.js" "aes.js" "random.js" ".#index.php" "../" "rsa.js" "server.php" "index.php")
+
+ ("/home/lum/work/ajax/" (25650 11462 104921 376000) "ajax.php" "./" "ajax.js" "../" "server.php" "index.php")
+
+ ("/home/lum/Downloads/GLum/GLum-folder/www/" (25642 6596 667566 983000) "./" "fingerprint.php" "fingerprint" "../" "index.php")
+
+ ("/home/lum/Downloads/GLum/GLum-folder/" (25642 5938 754265 386000) "php-cgi-mysqli-pgsql" "CEF.Readme.txt" "cef_extensions.pak" "app-icon.png" "CEF.License.txt" "debug.log" "startApp" "php-cgi" "./" "v8_context_snapshot.bin" "www/" "webcache/" "icudtl.dat" "settings.json" "libEGL.so" "libcef.so" "devtools_resources.pak" "License.txt" "swiftshader/" "snapshot_blob.bin" "natives_blob.bin" "cef.pak" "../" "locales/" "libGLESv2.so" "php.ini" "cef_100_percent.pak" "cef_200_percent.pak")
+
+ ("/home/lum/Downloads/GLum/" (25642 5879 777601 569000) "./" "makefile" "lumPackageController" "GLum-folder/" "GLum" "rmscript" "../")
+
+ ("/home/lum/.emacs.d/php/hello/" (25623 37707 323769 274000) "./" "../" "index.php")
+
+ ("/home/lum/.emacs.d/php/" (25623 37682 267103 814000) "./" "../" "hello/")
+
+ ("/home/lum/.emacs.d/" (25623 37847 523762 540000) "auto-save-list/" "ido.last" "lisp/" "themes/" "./" "url/" "php/" "tutorial/" "../")
 
  ("/home/lum/work/gender/reg/" (25614 22220 314867 94000) "./" "regAccept.php" ".#regAccept.php" "ajaxCheckUserName.php" "../" "script.js")
 
  ("/home/lum/work/gender/" (25614 22189 44868 606000) "config.php" "reg/" "./" "auth.php" "reg.php" "functions.class.php" "users/" "../" "index.php" "main.php")
-
- ("/home/lum/work/" (25611 57781 554834 839000) "gender/" "CTM/" "rust/" "./" "lupatik/" "../")
 
  ("/home/lum/work/CTM/" (25605 19318 823533 729000) "createfolder.php" "editor.php" "images/" "config.php" "jquery.js" "fonts/" "style.css" "downloadfile.php" "files/" "favicon.ico" "cookie.js" "./" "deletefile.php" "createfile.php" "todd.php" "showtable.php" "renamefile.php" "uploadfile.php" "language/" "deletefolder.php" "codemirror/" "todd/" "glBack.jpg" "font-awesome.min.css" "panel.css" "../" "savefile.php" "todd_allow.php" "masterKey.php" "downloadfolder.php" "index.php" "script.js" ".git/")
 
@@ -82,8 +274,6 @@
 
  ("/home/lum/work/cr/ti-dh-php/" (25585 35000 842137 966000) "LICENSE" "Dh.php" "./" "README.md" "../" ".git/" "example/")
 
- ("/home/lum/.config/sxhkd/" (25581 33576 977593 109000) "sxhkdrc" "./" "../")
-
  ("/home/lum/.config/" (25581 35103 490852 786000) "legendary/" "rofi/" "cef_user_data/" "neofetch/" "nemo/" "./" "kitty/" "pcmanfm/" "openbox/" "sxhkd/" "mimeapps.list" "obs-studio/" "rofi.lum/" "micro/" "heroic/" "nitrogen/" "kdenlive-appimagerc" "tint2/" "audacity/" "xfce4/" "polybar/" "gtk-3.0/" "menus/" "ranger/" "bspwm/" "unity3d/" "../" "kdenlive-layoutsrc" "dconf/" "pulse/" "gtk-2.0/" "discord/" "GIMP/" "libfm/" "google-chrome/" "Sandbox Interactive GmbH/" "flameshot/" "htop/" "Thunar/")
 
  ("/home/lum/.Wurst encryption/" (25526 56343 347514 311000) "wurst_rsa_private.txt" "./" "READ ME I AM VERY IMPORTANT.txt" "../" "wurst_aes.txt" "wurst_rsa_public.txt")
@@ -93,10 +283,6 @@
  ("/home/lum/work/rust/hello/src/" (25569 43861 980634 505000) "./" "main.rs" "../")
 
  ("/home/lum/work/rust/hello/" (25569 43861 980634 505000) "src/" "./" ".gitignore" "../" "Cargo.toml" ".git/")
-
- ("/home/lum/work/rust/" (25569 43861 970634 506000) "./" "../" "hello/")
-
- ("/home/lum/Downloads/" (25526 64982 982447 214000) "Спокойной ночи, Малыши/" "./" "video.webm" "Komandy.txt" "../" "465863.jpg")
 
  ("/home/lum/Downloads/DonationExecutor/src/main/java/igorlink/donationexecutor/playersmanagement/" (25517 3270 69871 205000) "StreamerPlayersManager.java" "./" "donationalerts/" "StreamerPlayer.java" "../" "Donation.java")
 
