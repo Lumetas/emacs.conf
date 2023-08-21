@@ -1,3 +1,4 @@
+(setq ido-auto-merge-work-directories-length -1)
 (setq show-paren-style 'expression)
 (show-paren-mode 2)
 (xterm-mouse-mode 1)
