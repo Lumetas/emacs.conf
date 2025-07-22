@@ -1,0 +1,63 @@
+;; -*- lexical-binding: t; -*-
+;; Вырубаем всю дичь (тулбары, меню и прочее)
+(menu-bar-mode -1)
+(tool-bar-mode -1)
+(scroll-bar-mode -1)
+(setq visible-bell 1)
+
+;; Убираем к хуям автосохранение, временные файлы и т.д. Так же для вопросов делаем сокращения
+(setq make-backup-files         nil)
+(setq auto-save-list-file-name  nil)
+(setq auto-save-default         nil)
+(defalias 'yes-or-no-p 'y-or-n-p)
+
+;; Ускоряем загрузку (меньше GC)
+(setq gc-cons-threshold 100000000)
+(setq read-process-output-max (* 1024 1024))
+
+;; Пакеты (Melpa)
+(require 'package)
+(add-to-list 'package-archives '("melpa" . "https://melpa.org/packages/") t)
+(package-initialize)
+
+;; Автоустановка use-package (если нет)
+(unless (package-installed-p 'use-package)
+  (package-refresh-contents)
+  (package-install 'use-package))
+
+;; Включаем use-package
+(eval-when-compile
+  (require 'use-package))
+
+(load-file "~/.emacs.d/custom/font.el")
+
+(set-frame-parameter nil 'alpha-background 80) ; For current frame
+(add-to-list 'default-frame-alist '(alpha-background . 80)) 
+
+(load-file "~/.emacs.d/custom/theme.el")
+
+(load-file "~/.emacs.d/custom/plugins.el")
+
+;; Включаем номера строк во всех буферах с кодом
+(global-display-line-numbers-mode t)
+(dolist (mode '(treemacs-mode-hook eat-mode-hook org-mode-hook term-mode-hook eshell-mode-hook))
+  (add-hook mode (lambda () (display-line-numbers-mode 0))))
+
+(load-file "~/.emacs.d/custom/evil.el")
+
+(load-file "~/.emacs.d/custom/file_search.el")
+
+(load-file "~/.emacs.d/custom/lsp.el")
+
+(custom-set-variables
+ ;; custom-set-variables was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ '(package-selected-packages nil))
+(custom-set-faces
+ ;; custom-set-faces was added by Custom.
+ ;; If you edit it by hand, you could mess it up, so be careful.
+ ;; Your init file should contain only one such instance.
+ ;; If there is more than one, they won't work right.
+ )

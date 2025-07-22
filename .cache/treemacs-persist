@@ -1,0 +1,5 @@
+* Default
+** .emacs.d
+ - path :: ~/.emacs.d
+** google_sheets
+ - path :: ~/work/google_sheets
