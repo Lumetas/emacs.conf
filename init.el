@@ -43,12 +43,15 @@
 (dolist (mode '(treemacs-mode-hook eat-mode-hook org-mode-hook term-mode-hook eshell-mode-hook))
   (add-hook mode (lambda () (display-line-numbers-mode 0))))
 
-(load-file "~/.emacs.d/custom/evil.el")
+
+
 
 (load-file "~/.emacs.d/custom/file_search.el")
 
 (load-file "~/.emacs.d/custom/lsp.el")
 
+;; (load-file "~/.emacs.d/custom/evil.el")
+(load-file "~/.emacs.d/custom/notevil.el")
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

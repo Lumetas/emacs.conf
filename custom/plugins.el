@@ -10,9 +10,7 @@
 (use-package undo-fu
   :ensure t
   :config
-  (global-unset-key (kbd "C-z"))  ; Освобождаем C-z для undo
-  (global-set-key (kbd "C-z") 'undo-fu-only-undo)
-  (global-set-key (kbd "C-S-z") 'undo-fu-only-redo))
+)
 
 (use-package eat
   :ensure t

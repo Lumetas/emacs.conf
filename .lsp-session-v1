@@ -1,1 +1,1 @@
-#s(lsp-session ("/home/lum/work/google_sheets" "/home/lum/LumProjects/meract") nil #s(hash-table test equal) #s(hash-table test equal) #s(hash-table test equal))
+#s(lsp-session ("/Users/lum/LumProjects/meract-test" "/home/lum/work/google_sheets" "/home/lum/LumProjects/meract") nil #s(hash-table test equal) #s(hash-table test equal) #s(hash-table test equal))
