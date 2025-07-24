@@ -4,6 +4,10 @@
   (define-key treemacs-mode-map (kbd "C-c p a") 'treemacs-add-project)
   (define-key treemacs-mode-map (kbd "C-c p d") 'treemacs-remove-project-from-workspace)
 
+  (define-key treemacs-mode-map (kbd "C-c f d") 'treemacs-delete)
+  (define-key treemacs-mode-map (kbd "C-c f m") 'treemacs-move-file)
+  (define-key treemacs-mode-map (kbd "C-c f r") 'treemacs-rename)
+
   (define-key treemacs-mode-map (kbd "C-c a f") 'treemacs-create-file)
   (define-key treemacs-mode-map (kbd "C-c a d") 'treemacs-create-dir))
 
